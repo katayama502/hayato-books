@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://hkdesign.site/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://hkdesign.site/covers/og.jpg</image:loc></image:image>
+    <image:image><image:loc>https://hkdesign.site/covers/app.webp</image:loc></image:image>
+    <image:image><image:loc>https://hkdesign.site/covers/itp.webp</image:loc></image:image>
+    <image:image><image:loc>https://hkdesign.site/covers/work.webp</image:loc></image:image>
+    <image:image><image:loc>https://hkdesign.site/covers/dict.webp</image:loc></image:image>
+    <image:image><image:loc>https://hkdesign.site/covers/pico.webp</image:loc></image:image>
+  </url>
+</urlset>
